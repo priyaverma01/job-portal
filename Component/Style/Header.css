@@ -1,0 +1,15 @@
+.header-section{
+    margin-top: 60px;
+    flex-direction: column;
+   gap: 10px;
+    display: flex;
+    align-items: center;
+    color: white;
+    
+}
+.header1{
+    font-size: 50px;
+}
+.header2{
+    font-size: 20px;
+}

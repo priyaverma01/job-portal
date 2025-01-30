@@ -1,0 +1,55 @@
+.Job-card{
+    margin-top: 50px;
+    margin-left: 11%;
+}
+.outer-card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: azure;
+    border-radius: 3px;
+    border: black;
+    box-shadow: inset;
+    width: 90%;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    
+}
+.firstdiv{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+.skillstyling{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+}
+.skills{
+    color: gray;
+    padding: 2px 0px 3px 0px;
+    border: 1px solid rgb(108, 108, 183);
+    border-radius: 3px;
+    
+    /* border-color: black; */
+}
+.right-card{
+    display: flex;
+    align-items: center;
+}
+.daystyle{
+    color: gray;
+    margin-right: 10px;
+
+}
+.applybtn{
+    color: blue;
+    border: 1px solid rgb(53, 47, 47);
+    padding: 9px 10px 9px 10px;
+    border-radius: 3px;
+    margin-left: 5px;
+    /* width: 50%; */
+}

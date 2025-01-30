@@ -1,0 +1,28 @@
+.selectors{
+    width: 15%;
+   padding: 7px 0px 7px 4px;
+   /* background-color: aliceblue; */
+   font-weight:bold ;
+   border-radius: 3px;
+   color: black;
+   text-align: center;
+  
+}
+.search-btn{
+    width: 15%;
+    background-color: rgb(45, 45, 134);
+    color: white;
+    font-weight: bold;
+    padding: 7px 0px 7px 4px ;
+    border-radius: 5px;
+   border-style: groove;
+}
+.selector-container{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    justify-content: center;
+    gap: 10px;
+
+
+}

@@ -1,0 +1,15 @@
+.nav-bar{
+    height: 20px;
+    display: flex;
+    /* justify-content: center; */
+    width: 100%;
+   
+}
+.title{
+    font-size: 30px;
+    padding-left: 20px;
+    font-weight: bold
+    ;
+    color: white;
+    margin-top: 20px;
+}
